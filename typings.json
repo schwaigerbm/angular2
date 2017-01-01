@@ -2,6 +2,7 @@
   "name": "app",
   "dependencies": {},
   "globalDependencies": {
+    "core-js": "registry:dt/core-js#0.9.7+20161130133742",
     "node": "registry:dt/node#6.0.0+20161229171858"
   }
 }
